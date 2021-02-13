@@ -5,4 +5,4 @@ This is a BFS approach solution. The intuition is simple: Use a map to easily ac
 
 Runtime complexity: O(n), since we loop over each node in the original tree. n is total number of nodes.
 
-Space complexity: O(log(n)), n is total number of nodes.
+Space complexity: O(w), w is the number of nodes of the layer that has most nodes.
