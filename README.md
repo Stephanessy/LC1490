@@ -7,4 +7,4 @@ Runtime complexity: O(n), since we loop over each node in the original tree. n i
 
 Space complexity: O(log(n)), n is total number of nodes.
 
-Since $n = \sum_{i=0}^m N^i$
+Since $$n = \sum_{i=0}^m N^i$$
